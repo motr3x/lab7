@@ -1,0 +1,19 @@
+body {
+	background:#FFF7DD;
+	font-style:'Times New Roman';
+	margin-left: 2%;
+}
+button {
+	background:#ffd447;
+	width:150px;
+	margin-left: 0%
+}
+.layer1 {
+
+}
+TD.leftcol {
+    width: 190px; /* Ширина левой колонки с рисунком */
+   }
+.pic {
+	float: right;:
+}
